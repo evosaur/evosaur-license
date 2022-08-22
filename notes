@@ -1,0 +1,14 @@
+https://spdx.org/licenses/CERN-OHL-S-2.0.html
+// just put license ideas that you like here
+i'll attach to a subsession so i could help #linux
+"https://spdx.org/licenses/CERN-OHL-S-2.0.html but without the exception for proprietary software that cannot create a non-proprietary format"
+may not actually work so well for the specs though bc they aren't an actual hardware plan
+
+yeah
+
+specifically this license (ideas in this file) are for documentation/specs, instead of hardware designs  (things like cad files) / software code / etc
+
+something that says hardware made based on these would use the desired hardware license would be nice :P
+and on the bright side of the CERN OHL, it does at least prevent the main issue of patents (without saying anything about the software to be run on it, unlike nomral copyleft licenses)
+
+

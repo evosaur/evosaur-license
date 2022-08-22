@@ -1,0 +1,100 @@
+0. Definitions.
+
+"This License" refers to version BRUH of the Evosaur Project
+Public License.
+
+"Copyright" means copyright and copyright-like laws that apply to other
+kinds of works.
+
+"The Original Work" refers to any Copyrightable work licensed under This
+License.  Each licensee is addressed as "You".  "Licensees" and
+"Recipients" may be individuals or organizations.
+
+To "modify" a work means to copy from or adapt all or part of a work in
+a fashion requiring Copyright permission, other than the making of an
+exact copy.  The resulting work is called a "modified version" of the
+earlier work or a work "based on" the earlier work.
+
+A "Covered Work" means either the unmodified Original Work or a work
+based on The Original Work.
+
+To "propagate" a work means to do anything with it that, without
+permission, would make You directly or secondarily liable for
+infringement under applicable Copyright law, except reading it,
+compiling it (??) or modifying a private copy.  Propagation includes
+distribution (with or without modification), making available to the
+public, and in some juristictions other activities as well (bruh).
+
+
+(clearly define compile sometime)
+
+1. Source Code.
+
+The "Source Code" for a work means the preferred form of the work for
+making modifications to it.  "Object Code"  eans any non-Source Code
+form of a work.
+
+The "Corresponding Source", of a work in Object Code form, means all the
+Source Code needed to generate, install, and (for an executable work)
+run the Object Code and to modify the work, including scripts to control
+these activities.
+
+The Corresponding Source need not include anything that users can
+regenerate automatically from other parts of the Corresponding Source.
+# Generation utilities license or in corresponding source?
+
+The Corresponding Source for a work in Source Code form is that same
+work. # WTF
+
+2. Basic Permissions.
+
+All permissions granted under this License are granted for the term of
+Copyright on The Original Work, and are irrevocable provided the stated
+conditions are met.
+
+This License explicitly affirms your unlimited permission to run the
+unmodified Work.  The output from running a Covered Work is covered by
+this License if and only if the output, given its content, constitutes a
+Covered Work.  
+
+This License acknowledges your rights of fair use or other equivalent,
+as provided by Copyright law.  # bruh
+
+
+# define run or use in context of a non-program
+# l2 of \prev\par: "the Work" or "The Original Work" or what
+
+You may make and run Covered Works without conditions so long as your
+license otherwise remains in force.
+
+You may propogate convered works to others for the sole purpose of
+having them make modifications exclusively for You, or provide You with
+facilities for running those works, provided that you comply with the
+terms of this License in propogating all material for which you do not
+control Copyright.  Those thus making or running the covered works for
+you must do so exclusively on your behalf, under your direction and
+control, on terms that prohibit them from making any copies of your
+Copyrighted material outside their relationship with you.
+# "your" copyrighted material?
+# wtf is this even for
+
+3. I don't know how to name this.
+
+No Covered Work shall be deemed part of an effective technological
+measure under any applicable law fulfilling oblications under article 11
+of the WIPO Copyright Treaty adopted on 20 December 1996, or similar
+laws probibiting or restricting cirvumvention of such measures.
+
+When you propogate a covered work, you waive any legal power to forbid
+circumvention of technological measures to the extent such circumvention
+is effected by exercising rights under this License with respect to the
+Covered Work, and You disclaim any intention to limit operation or
+modification of the work as a means of enforcing, against the work's
+users, you or third parties' legal rights to forbid circumvention of
+technological measures.
+
+# from now on "conveying" is reintroduced, fix section 0--3
+
+4. Conveying Verbatim Copies.
+
+
