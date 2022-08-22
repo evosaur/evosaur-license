@@ -11,4 +11,7 @@ specifically this license (ideas in this file) are for documentation/specs, inst
 something that says hardware made based on these would use the desired hardware license would be nice :P
 and on the bright side of the CERN OHL, it does at least prevent the main issue of patents (without saying anything about the software to be run on it, unlike nomral copyleft licenses)
 
+to relly understand the gpl we'd need to read stuff like https://gpl.guide/ carefully
+I mean yeah it's not the license itself but the ("suspected") motives begind the terms are quite important
 
+also as always remember to consult a lawyer
